@@ -2,15 +2,15 @@
 
 A simple TCP port scanner written in Python.
 
-## Features
+## Features:
 - Scans common TCP ports
 - Detects open ports
 - Supports custom target IP addresses
 
-## Requirements
+## Requirements:
 - Python 3
 
-## Usage
+## Usage:
 
 ```bash
 python3 netscan.py <IP>
@@ -20,5 +20,5 @@ Example:
 python3 netscan.py 127.0.0.1
 
 
-Disclaimer
+Disclaimer*
 Use this tool only on systems you own or have permission to test.
